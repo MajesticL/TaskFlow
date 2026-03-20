@@ -1,7 +1,7 @@
 # TaskFlow - Vanilla JS Kanban Board
 
-![Status](https://img.shields.io/badge/Status-Planning-pink)
-![Tech](https://img.shields.io/badge/Status-Vanilla$20JS-pink)
+![Status](https://img.shields.io/badge/Status-Planning-yellow)
+![Tech](https://img.shields.io/badge/Tech-Vanilla%20JS-green)
 
 ## 🚀 Project Overview
 
