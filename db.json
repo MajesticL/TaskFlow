@@ -1,0 +1,6 @@
+{
+  "tasks": [
+    { "id": 1, "title": "Set up Project", "status": "done" },
+    { "id": 2, "title": "Build Kanban UI", "status": "in-progress" }
+  ]
+}
