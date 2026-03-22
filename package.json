@@ -1,0 +1,24 @@
+{
+  "name": "taskflow",
+  "version": "1.0.0",
+  "description": "![Status](https://img.shields.io/badge/Status-Planning-yellow)\r ![Tech](https://img.shields.io/badge/Tech-Vanilla%20JS-green)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MajesticL/TaskFlow.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/MajesticL/TaskFlow/issues"
+  },
+  "homepage": "https://github.com/MajesticL/TaskFlow#readme",
+  "devDependencies": {
+    "json-server": "^1.0.0-beta.14"
+  }
+}
